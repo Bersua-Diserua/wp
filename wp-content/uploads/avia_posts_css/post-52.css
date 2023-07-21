@@ -1,0 +1,53 @@
+.avia-section.av-l9z0usrt-39743541b14f3a73941c058b92deb57e{
+background-color:#020202;
+background-image:unset;
+}
+
+.iconbox.av-l9z1osua-e762497a4913b94c22639dd2482dd9de .iconbox_icon{
+background-color:#a37d3d;
+}
+
+.iconbox.av-l9z25jz9-26de76ad55abee547ac58df28c02ff91 .iconbox_icon{
+background-color:#a37d3d;
+}
+
+.avia-section.av-l9k3rwka-34af9591d0972e5ee2e31553961e4f5e .av-parallax .av-parallax-inner{
+background-repeat:no-repeat;
+background-image:url(https://bersuadiserua.com/wp-content/uploads/2022/10/newww.jpg);
+background-position:50% 50%;
+background-attachment:scroll;
+}
+
+@-webkit-keyframes av_sonarEffect_av-l9k3ummm-c9cbb08fabcbf9c65c647230c2de0e9a {
+  0% {opacity: 0.3;}
+ 40% {opacity: 0.5; box-shadow: 0 0 0 2px rgba(255,255,255,0.1), 0 0 10px 10px #ffffff, 0 0 0 10px rgba(255,255,255,0.5);}
+100% {opacity: 0; box-shadow: 0 0 0 2px rgba(255,255,255,0.1), 0 0 10px 10px #ffffff, 0 0 0 10px rgba(255,255,255,0.5); -webkit-transform: scale(1.5); transform: scale(1.5);}
+}
+@keyframes av_sonarEffect_av-l9k3ummm-c9cbb08fabcbf9c65c647230c2de0e9a {
+  0% {opacity: 0.3;}
+ 40% {opacity: 0.5; box-shadow: 0 0 0 2px rgba(255,255,255,0.1), 0 0 10px 10px #ffffff, 0 0 0 10px rgba(255,255,255,0.5);}
+100% {opacity: 0; box-shadow: 0 0 0 2px rgba(255,255,255,0.1), 0 0 10px 10px #ffffff, 0 0 0 10px rgba(255,255,255,0.5); -webkit-transform: scale(1.5); transform: scale(1.5);}
+}
+#top #wrap_all .avia-button.av-l9k3ummm-c9cbb08fabcbf9c65c647230c2de0e9a{
+box-shadow:none;
+-webkit-transition:all 0.4s ease-in-out;
+-moz-transition:all 0.4s ease-in-out;
+-ms-transition:all 0.4s ease-in-out;
+-o-transition:all 0.4s ease-in-out;
+transition:all 0.4s ease-in-out;
+}
+#top #wrap_all .avia-button.av-l9k3ummm-c9cbb08fabcbf9c65c647230c2de0e9a:hover{
+opacity:0.1;
+-webkit-transition:all 0.4s ease-in-out;
+-moz-transition:all 0.4s ease-in-out;
+-ms-transition:all 0.4s ease-in-out;
+-o-transition:all 0.4s ease-in-out;
+transition:all 0.4s ease-in-out;
+}
+.avia-button.av-l9k3ummm-c9cbb08fabcbf9c65c647230c2de0e9a.avia-sonar-shadow:hover:after{
+-webkit-animation:av_sonarEffect_av-l9k3ummm-c9cbb08fabcbf9c65c647230c2de0e9a 1s ease-in-out .1s infinite;
+-moz-animation:av_sonarEffect_av-l9k3ummm-c9cbb08fabcbf9c65c647230c2de0e9a 1s ease-in-out .1s infinite;
+-o-animation:av_sonarEffect_av-l9k3ummm-c9cbb08fabcbf9c65c647230c2de0e9a 1s ease-in-out .1s infinite;
+animation:av_sonarEffect_av-l9k3ummm-c9cbb08fabcbf9c65c647230c2de0e9a 1s ease-in-out .1s infinite;
+}
+
